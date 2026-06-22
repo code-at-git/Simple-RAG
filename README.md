@@ -16,6 +16,8 @@ A lightweight, local Retrieval-Augmented Generation (RAG) system built with Pyth
    ```bash
    ollama pull nomic-embed-text
    ollama pull llama3
+   or
+   ollama pull quen3:8b
    ```
 
 ## Installation
