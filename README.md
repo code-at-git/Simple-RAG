@@ -1,4 +1,5 @@
 # SimpleRAG
+Local Retrieval-Augmented Generation (RAG) system
 
 A lightweight, local Retrieval-Augmented Generation (RAG) system built with Python, FAISS, and Ollama. It scans folders for PDF documents, indexes their contents locally using vector embeddings, tracks changes via file hashing, and answers queries using a local LLM.
 
